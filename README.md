@@ -1,5 +1,5 @@
-### Sultan Khan
-#### Full Stack Web Developer
+# Sultan Khan
+### Full Stack Web Developer
 
 ## Technologies I Work With
 
